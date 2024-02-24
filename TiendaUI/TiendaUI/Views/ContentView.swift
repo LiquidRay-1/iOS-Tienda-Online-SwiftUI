@@ -19,7 +19,7 @@ struct ContentView: View {
                     ItemRow(productos: producto)
                 }
             }
-            .navigationTitle("Menú")
+            .navigationTitle("Productos")
             }
         }
     }
